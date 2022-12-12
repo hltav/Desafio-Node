@@ -1,0 +1,21 @@
+{
+  "name": "desafio-node",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img alt=\"CodeClub\" src=\"https://i0.wp.com/rodolfomori.com/wp-content/uploads/2021/05/Co%CC%81pia-de-Yellow-White-and-Black-Edgy-Maximalism-Video-Gaming-YouTube-Outro-1-1024x1024.png\" width=\"300px\" />\r </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "project": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
